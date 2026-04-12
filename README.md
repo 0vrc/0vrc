@@ -6,7 +6,7 @@
 
 <br/>
 
-I’m a Bachelor’s student in Information Technology with a strong interest in low-level systems, CTFs, reverse engineering, and game exploit development. I enjoy exploring how software and game applications function internally, analyzing vulnerabilities, modifying software/game configurations, and building tools that improve efficiency and control. I’m motivated by the balance between logical analysis and creative experimentation. My academic interests lie in Cybersecurity & Information Security, as well as Networking & System Administration.
+I’m a Bachelor’s student in Information Technology with a strong interest in low-level systems, CTFs, crackmes, reverse engineering, and game exploit development. I enjoy exploring how software and game applications function internally, analyzing vulnerabilities, modifying software/game configurations, and building tools that improve efficiency and control. I’m motivated by the balance between logical analysis and creative experimentation. My academic interests lie in Cybersecurity & Information Security, as well as Networking & System Administration.
 
 Philippines
 
