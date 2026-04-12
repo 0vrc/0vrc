@@ -33,13 +33,13 @@ Philippines
 
 <div align="center">
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=xarenav.xarenav&left_color=24243e&right_color=00ff88&left_text=visitors)
-[![Follow](https://img.shields.io/github/followers/xarenav?label=follow&style=flat-square&color=00ff88&labelColor=24243e)](https://github.com/xarenav)
-[![Stars](https://img.shields.io/github/stars/xarenav?style=flat-square&label=stars&color=00ff88&labelColor=24243e)](https://github.com/xarenav)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=xarenav.xarenav&left_color=24243e&right_color=06402B&left_text=visitors)
+[![Follow](https://img.shields.io/github/followers/xarenav?label=follow&style=flat-square&color=06402B&labelColor=24243e)](https://github.com/xarenav)
+[![Stars](https://img.shields.io/github/stars/xarenav?style=flat-square&label=stars&color=06402B&labelColor=24243e)](https://github.com/xarenav)
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=xarenav&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=00ff88&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=xarenav&theme=tokyonight&hide_border=true&background=0d1117&ring=06402B&fire=06402B&currStreakLabel=06402B&sideLabels=06402B&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
 
 </div>
 
