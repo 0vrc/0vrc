@@ -39,7 +39,7 @@ Philippines
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=xarenav&theme=tokyonight&hide_border=true&background=0d1117&ring=06402B&fire=06402B&currStreakLabel=06402B&sideLabels=06402B&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=xarenav&theme=tokyonight&hide_border=true&background=0d1117&ring=06402B&fire=008000&currStreakLabel=06402B&sideLabels=06402B&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
 
 </div>
 
