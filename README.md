@@ -6,7 +6,7 @@
 
 <br/>
 
-I’m a Bachelor’s student in Information Technology with a strong interest in low-level systems, CTFs, crackmes, reverse engineering, and game exploit development. I enjoy exploring how software and game applications function internally, analyzing vulnerabilities, modifying software/game configurations, and building tools that improve efficiency and control. I’m motivated by the balance between logical analysis and creative experimentation. My academic interests lie in Cybersecurity & Information Security, as well as Networking & System Administration.
+I'm a Bachelor's student in Information Technology with a strong interest in low-level systems, CTFs, crackmes, reverse engineering, and game exploit development. I enjoy exploring how software and game applications function internally, analyzing vulnerabilities, modifying software/game configurations, and building tools that improve efficiency and control. I'm motivated by the balance between logical analysis and creative experimentation. My academic interests lie in Cybersecurity & Information Security, as well as Networking & System Administration.
 
 Philippines
 
@@ -14,19 +14,11 @@ Philippines
 
 **Tech Stack**
 
-![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![LuaU](https://img.shields.io/badge/Luau-00A2FF?logo=luau&logoColor=fff&style=flat)
-![C/C++](https://img.shields.io/badge/C%2FC++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![.ENV](https://img.shields.io/badge/.ENV-ECD53F?logo=dotenv&logoColor=000&style=flat)
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=flat)
+<div align="center">
 
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,js,html,css,lua,dotnet,numpy&theme=dark)](https://skillicons.dev)
 
+</div>
 
 <br/>
 
@@ -53,7 +45,6 @@ Philippines
 [crammer-app](https://github.com/xarenav/crammer-app) — Study crammer, school project — HTML, CSS, JS
 
 [BlockSmasher](https://github.com/xarenav/BlockSmasher) — Brick-breaker game, school project — Python, Pygame
-
 
 <br/>
 
