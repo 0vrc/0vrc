@@ -12,7 +12,7 @@ Philippines
 
 <br/>
 
-**Languages & Tools**
+**Tech Stack**
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -22,7 +22,7 @@ Philippines
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![LuaU](https://img.shields.io/badge/Luau-00A2FF?logo=luau&logoColor=fff&style=for-the-badge)
+![LuaU](https://img.shields.io/badge/Luau-00A2FF?logo=luau&logoColor=fff&style=flat)
 
 
 
