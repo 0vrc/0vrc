@@ -47,11 +47,11 @@ Philippines
 
 **Projects**
 
-[vnvll](https://github.com/xarenav/vnvll) — DDOS tool — Python
+[vnvll](https://github.com/0vrc/vnvll)
 
-[crammer-app](https://github.com/xarenav/crammer-app) — Study crammer, school project — HTML, CSS, JS
+[crammer-app](https://github.com/0vrc/crammer-app)
 
-[BlockSmasher](https://github.com/xarenav/BlockSmasher) — Brick-breaker game, school project — Python, Pygame
+[BlockSmasher](https://github.com/0vrc/BlockSmasher) 
 
 <br/>
 
